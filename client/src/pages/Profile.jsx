@@ -97,7 +97,7 @@ const Profile = () => {
 
   return (
     <div className="max-w-lg mx-auto p-3">
-      {/* 👇 CLEAN COMPONENT */}
+      
       <ProfilePic />
 
       <h1 className="text-3xl font-semibold text-center my-7">Profile</h1>
